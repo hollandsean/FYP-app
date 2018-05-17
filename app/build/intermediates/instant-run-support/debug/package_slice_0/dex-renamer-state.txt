@@ -1,0 +1,4 @@
+#Wed Apr 11 15:03:32 BST 2018
+base.0=C\:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\20
+path.0=classes.dex
+renamed.0=classes.dex

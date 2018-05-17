@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mrn.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\activity_mrn.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_service.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\listitem_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_scan.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\menu\\gatt_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_demo_opengl.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\demo_opengl.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_characteristic.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\listitem_characteristic.xml"
+    },
+    {
+        "merged": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    }
+]

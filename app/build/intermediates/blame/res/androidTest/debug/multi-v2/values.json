@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\sean\\AndroidStudioProjects\\BLE-Heart-rate-variability-demo-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\sean\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\e84eb8fa9d641121a7b3beffd6625ad9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "4,7",
+                        "startColumns": "0,0",
+                        "startOffsets": "276,439",
+                        "endColumns": "63,166",
+                        "endOffsets": "339,605"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "105,173",
+                        "endColumns": "67,166",
+                        "endOffsets": "168,335"
+                    }
+                }
+            ]
+        }
+    ]
+}
